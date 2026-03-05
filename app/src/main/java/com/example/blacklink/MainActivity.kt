@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             BlackLinkTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "vane",
+                        name = "jared",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
